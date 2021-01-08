@@ -13,7 +13,7 @@
 ![ReactJS](https://img.shields.io/badge/React-0E353D?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)</br>
 ![React-native](https://img.shields.io/badge/React-native-0E353D?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)</br>
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031)</br>
-![Ionic](https://img.shields.io/badge/ionic-0E353D?style=for-the-badge&logo=ionic&logoColor=white&labelColor=3880FF)</br>
+![Ionic](https://img.shields.io/badge/ionic-0078D4?style=for-the-badge&logo=ionic&logoColor=white&labelColor=3880FF)</br>
 ![Ruby On Ralis](https://img.shields.io/badge/RubyOnRails-CC3333?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white&labelColor=CC0000)</br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)</br>
 ![Flask](https://img.shields.io/badge/flask-0E353D?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)</br>
