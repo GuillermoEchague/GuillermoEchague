@@ -4,12 +4,12 @@
 
 ### Soy Ingeniero Civil en Mecánica de profesión y decidi dedicarme al desarrollo de Software
 
-<p>Aprendi a programar en la universidad pero aprendi lenguajes como JAVA, KOTLIN, Rails y React Native en Bootcamp y OTEC en Chile </p>
+<p>Aprendi a programar en la universidad pero aprendi lenguajes como JAVA, KOTLIN y FrameWorks como Rails y React Native y certificaciones en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup y Capacitación Usach.</p>
 
 ## Competencias:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FBBA00)</br>
-![NodeJS](https://img.shields.io/badge/NodeJS-3DDC84?style=for-the-badge&logo=node&logoColor=white&labelColor=101010)</br>
+![NodeJS](https://img.shields.io/badge/NodeJS-13DDC84?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=3DDC84)</br>
 ![ReactJS](https://img.shields.io/badge/React-0E353D?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)</br>
 ![React-native](https://img.shields.io/badge/React-native-0E353D?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)</br>
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031)</br>
