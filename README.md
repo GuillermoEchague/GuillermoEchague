@@ -4,7 +4,7 @@
 
 ### Soy Ingeniero Civil en Mecánica de profesión y decidi dedicarme al desarrollo de Software
 
-<p>Aprendi a programar en la universidad pero aprendi lenguajes como JAVA, KOTLIN y FrameWorks como Rails y React Native y certificaciones en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup y Capacitación Usach.</p>
+<p>Aprendi a programar en la universidad pero aprendi lenguajes como JAVA, KOTLIN y FrameWorks como Rails y React Native y certificaciones en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup, Testing en Chile y Capacitación Usach.</p>
 
 ## Competencias:
 
@@ -22,3 +22,39 @@
 ![Java](https://img.shields.io/badge/Java-0052CC?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-149DD3?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)</br>
 ![Android](https://img.shields.io/badge/Android-13DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)</br>
+
+## Certificaciones:
+
+~~~
+* Scrum Foundation Professional Certificate 
+* Desing Thinking Professional Certificae - DTPC
+* Implementador de SGSI bajo ISO 27001
+* Herramientas de Ciberseguridad
+* Gobierno y Gestión de la Ciberseguridad
+* Introducción a la Criptografía
+~~~
+
+## Cursos:
+
+~~~
+* Taller Jmeter para principiantes - Testing en Chile.
+* Python Orientado a Selenium - Testing en Chile. 
+
+* Introducción Ruby on Rails (G13) - Desafío Latam, Santiago, Chile.
+* Desarrollador de Aplicaciones Móviles Android Trainee - Desafío Latam, Chile.
+
+* Curso React Native - escalab.
+* Curso Docker y Kubernete - escalab. (En Desarrollo)
+* Curso React JS - escalab. (Marzo-2021)
+* Curso Angular - escalab. (Marzo-2021)
+* Curso GraphQL - escalab. (Marzo-2021)
+
+* Curso de Scrum Foundation - RIGroup. 
+* Curso de Scrum Master y Design Thinking - RIGroup. 
+
+* Gobierno y Gestión de TI usando COBIT - Capacitación USACH. (En Desarrollo)
+* Diplomado en Ciberseguridad - Capacitación USACH.
+
+* DEVOPS - MundosE, Argentina. (En Desarrollo)
+~~~
+
