@@ -56,6 +56,7 @@ LinkeIn: https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/
 
 * Gobierno y Gestión de TI usando COBIT - Capacitación USACH. (En Desarrollo)
 * Diplomado en Ciberseguridad - Capacitación USACH.
+* Introducción a la Criptografía - Capacitación USACH.
 * Introducción a la Programación en Python - Capacitación USACH.
 
 * DEVOPS - MundosE, Argentina. (En Desarrollo)
