@@ -23,7 +23,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-149DD3?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)</br>
 ![Android](https://img.shields.io/badge/Android-13DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)</br>
 
-![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[LinkeIn](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/)</br> 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[LinkeIn](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/)</br> 
 
 ## Certificaciones:
 
