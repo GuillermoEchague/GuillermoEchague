@@ -4,7 +4,7 @@
 
 ### Soy Ingeniero Civil en Mecánica de profesión y decidi dedicarme al desarrollo de Software
 
-<p>Aprendi a programar en la universidad Lenguajes como MatLab y Fortran. Aprendi lenguajes como JAVA, KOTLIN, FrameWorks como Rails y React Native, junto con algunas certificaciones en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup, Testing en Chile y Capacitación Usach. Actualmente me encuentro cursando la carrera de TÉCNICO DE NIVEL SUPERIOR EN CLOUD ADMINISTRATION en IPP en Chile.</p>
+<p>Aprendí a programar en la universidad Lenguajes como MatLab y Fortran. Los lenguajes y FrameWorks como: JAVA, KOTLIN, Ruby on Rails y React Native, junto con algunas certificaciones las conseguí estudiando en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup, Testing en Chile y Capacitación Usach. Actualmente me encuentro cursando la carrera de TÉCNICO DE NIVEL SUPERIOR EN CLOUD ADMINISTRATION en IPP en Chile.</p>
 
 ## Competencias:
 
@@ -22,6 +22,8 @@
 ![Java](https://img.shields.io/badge/Java-0052CC?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-149DD3?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)</br>
 ![Android](https://img.shields.io/badge/Android-13DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)</br>
+
+LinkeIn: https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/
 
 ## Certificaciones:
 
@@ -54,6 +56,7 @@
 
 * Gobierno y Gestión de TI usando COBIT - Capacitación USACH. (En Desarrollo)
 * Diplomado en Ciberseguridad - Capacitación USACH.
+* Introducción a la Programación en Python - Capacitación USACH.
 
 * DEVOPS - MundosE, Argentina. (En Desarrollo)
 ~~~
