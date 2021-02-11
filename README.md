@@ -4,7 +4,7 @@
 
 ### Soy Ingeniero Civil en Mecánica de profesión y decidi dedicarme al desarrollo de Software
 
-<p>Aprendí a programar en la universidad Lenguajes como MatLab y Fortran. Los lenguajes y FrameWorks como: JAVA, KOTLIN, Ruby on Rails y React Native, junto con algunas certificaciones las conseguí estudiando en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup, Testing en Chile y Capacitación Usach. Actualmente me encuentro cursando la carrera de TÉCNICO DE NIVEL SUPERIOR EN CLOUD ADMINISTRATION en IPP en Chile.</p>
+<p>Aprendí a programar en la universidad Lenguajes como MatLab y Fortran. Los lenguajes y FrameWorks como: JAVA, KOTLIN, Ruby on Rails y React Native, junto con algunas certificaciones las conseguí estudiando en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup, Testing en Chile y Capacitación Usach. Actualmente me encuentro cursando la carrera de TÉCNICO DE NIVEL SUPERIOR EN CLOUD ADMINISTRATION en IPP, Chile.</p>
 
 ## Competencias:
 
@@ -34,6 +34,7 @@
 * Herramientas de Ciberseguridad
 * Gobierno y Gestión de la Ciberseguridad
 * Introducción a la Criptografía
+* Introducción a la Programación en Python
 ~~~
 
 ## Cursos:
@@ -43,7 +44,7 @@
 * Python Orientado a Selenium - Testing en Chile. 
 
 * Introducción Ruby on Rails (G13) - Desafío Latam, Santiago, Chile.
-* Desarrollador de Aplicaciones Móviles Android Trainee - Desafío Latam, Chile.
+* Desarrollador de Aplicaciones Móviles Android Trainee - Desafío Latam, Santiago, Chile.
 
 * Curso React Native - escalab.
 * Curso Docker y Kubernete - escalab. (En Desarrollo)
