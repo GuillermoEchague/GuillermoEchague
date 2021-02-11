@@ -4,7 +4,7 @@
 
 ### Soy Ingeniero Civil en Mecánica de profesión y decidi dedicarme al desarrollo de Software
 
-<p>Aprendi a programar en la universidad pero aprendi lenguajes como JAVA, KOTLIN y FrameWorks como Rails y React Native y certificaciones en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup, Testing en Chile y Capacitación Usach.</p>
+<p>Aprendi a programar en la universidad Lenguajes como MatLab y Fortran. Aprendi lenguajes como JAVA, KOTLIN, FrameWorks como Rails y React Native, junto con algunas certificaciones en Bootcamp y OTEC en Chile como Desafio Latam, Escalab, RIGroup, Testing en Chile y Capacitación Usach. Actualmente me encuentro cursando la carrera de TÉCNICO DE NIVEL SUPERIOR EN CLOUD ADMINISTRATION en IPP en Chile.</p>
 
 ## Competencias:
 
