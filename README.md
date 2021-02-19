@@ -26,7 +26,7 @@
 ## Testing
 ![Jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136&logo=jmeterd&logoColor=white)</br>
 ![Selenium](https://img.shields.io/badge/Selenium-Python-%23CB2136)</br>
-![Postman](https://img.shields.io/badge/Postman-%23CB2136)</br>
+![Postman](https://img.shields.io/badge/Postman-%23CB2136?style=for-the-badge&logo=postman&logoColor=white)</br>
 
 
 ## Red Social
