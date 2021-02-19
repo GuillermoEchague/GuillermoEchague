@@ -24,12 +24,12 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</br>
 
 ## Testing
-![Jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136)</br>
+![Jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136&logo=jmeterd&logoColor=white)</br>
 ![Selenium](https://img.shields.io/badge/Selenium-Python-%23CB2136)</br>
 ![Postman](https://img.shields.io/badge/Postman-%23CB2136)</br>
 
 
-
+## Red Social
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[linkedin](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/)</br> 
 
 ## Certificaciones:
