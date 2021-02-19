@@ -14,7 +14,6 @@
 ![React-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFBB)</br>
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)</br>
 ![Ionic](https://img.shields.io/badge/ionic-0078D4?style=for-the-badge&logo=ionic&logoColor=white&labelColor=3880FF)</br>
-![Jest](https://img.shields.io/badge/jest-E6162D?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325)</br>
 ![GraphQL](https://img.shields.io/badge/GraphQL-FF0089?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)</br>
 ![Ruby On Ralis](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
@@ -23,14 +22,17 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)</br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</br>
 
+
 ## Testing
 ![Jmeter](https://img.shields.io/badge/JMETER-000000?style=for-the-badge&logo=jmeter&logoColor=white)</br>
 ![Selenium](https://img.shields.io/badge/Selenium-Python-%23CB2136?style=for-the-badge&logo=selenium&logoColor=white)</br>
 ![Postman](https://img.shields.io/badge/Postman-ED8B00?style=for-the-badge&logo=postman&logoColor=white)</br>
+![Jest](https://img.shields.io/badge/jest-E6162D?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325)</br>
 
 
 ## Red Social
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[linkedin](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/)</br> 
+
 
 ## Certificaciones:
 
