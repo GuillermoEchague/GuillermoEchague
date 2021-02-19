@@ -24,9 +24,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</br>
 
 ## Testing
-![Jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136&logo=jmeterd&logoColor=white)</br>
-![Selenium](https://img.shields.io/badge/Selenium-Python-%23CB2136)</br>
-![Postman](https://img.shields.io/badge/Postman-%23CB2136?style=for-the-badge&logo=postman&logoColor=white)</br>
+![Jmeter](https://img.shields.io/badge/jmeter-23CB2136?style=for-the-badge&logo=jmeter&logoColor=white)</br>
+![Selenium](https://img.shields.io/badge/Selenium-Python-%23CB2136?style=for-the-badge&logo=selenium&logoColor=white)</br>
+![Postman](https://img.shields.io/badge/Postman-ED8B00?style=for-the-badge&logo=postman&logoColor=white)</br>
 
 
 ## Red Social
