@@ -70,7 +70,7 @@
 * Desarrollador de Aplicaciones Móviles Android Trainee - Desafío Latam, Santiago, Chile.
 
 * Curso React Native - escalab.
-* Curso Docker y Kubernete - escalab. (En Desarrollo)
+* Curso Docker y Kubernete - escalab. 
 * Curso React JS - escalab. (Marzo-2021)
 * Curso Angular - escalab. (Marzo-2021)
 * Curso GraphQL - escalab. (Marzo-2021)
@@ -78,7 +78,7 @@
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
 
-* Gobierno y Gestión de TI usando COBIT - Capacitación USACH. (En Desarrollo)
+* Gobierno y Gestión de TI usando COBIT - Capacitación USACH. 
 * Diplomado en Ciberseguridad - Capacitación USACH.
 * Introducción a la Criptografía - Capacitación USACH.
 * Introducción a la Programación en Python - Capacitación USACH.
