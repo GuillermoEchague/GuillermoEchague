@@ -58,6 +58,7 @@
 * Gobierno y Gestión de la Ciberseguridad
 * Introducción a la Criptografía
 * Introducción a la Programación en Python
+* Gobierno y Gestión de TI usando COBIT
 ~~~
 
 ## Cursos:
@@ -78,6 +79,7 @@
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
 
+* Arquitecto Cloud - Capacitación USACH. (Marzo-2021) 
 * Gobierno y Gestión de TI usando COBIT - Capacitación USACH. 
 * Diplomado en Ciberseguridad - Capacitación USACH.
 * Introducción a la Criptografía - Capacitación USACH.
