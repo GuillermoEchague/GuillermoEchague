@@ -72,14 +72,14 @@
 
 * Curso React Native - escalab.
 * Curso Docker y Kubernete - escalab. 
-* Curso React JS - escalab. (Marzo-2021)
+* Curso React JS - escalab. (En Desarrollo)
 * Curso Angular - escalab. (Marzo-2021)
 * Curso GraphQL - escalab. (Marzo-2021)
 
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
 
-* Arquitecto Cloud - Capacitación USACH. (Marzo-2021) 
+* Arquitecto Cloud - Capacitación USACH. (En Desarrollo)
 * Gobierno y Gestión de TI usando COBIT - Capacitación USACH. 
 * Diplomado en Ciberseguridad - Capacitación USACH.
 * Introducción a la Criptografía - Capacitación USACH.
