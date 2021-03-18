@@ -76,8 +76,8 @@
 * Curso React Native - escalab.
 * Curso Docker y Kubernete - escalab. 
 * Curso React JS - escalab. (En Desarrollo)
-* Curso Angular - escalab. (Marzo-2021)
-* Curso GraphQL - escalab. (Marzo-2021)
+* Curso Angular - escalab. (Julio-2021)
+* Curso GraphQL - escalab. (En Desarrollo)
 
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
