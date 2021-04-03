@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</br>
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</br>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=ED8B00)</br>
-![GCP](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=FAFAFA)</br>
+![GCP](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=1A73E8&labelColor=FAFAFA)</br>
 
 
 ## Testing
