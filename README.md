@@ -50,7 +50,8 @@
 
 ## Red Social
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/) [![](https://img.shields.io/badge/cv-0077B5?style=for-the-badge)](https://cv-guillermo-echague.netlify.app/)
+
 
 
 
