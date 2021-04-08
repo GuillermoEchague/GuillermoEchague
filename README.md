@@ -37,8 +37,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)</br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</br>
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=ED8B00)
-![GCP](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=1A73E8&labelColor=FAFAFA)</br>
+![GCP](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=1A73E8&labelColor=FAFAFA)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=ED8B00)</br>
 
 
 ## Testing
@@ -51,8 +51,6 @@
 ## Red Social
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/) [![](https://img.shields.io/badge/cv-232F3E?style=for-the-badge)](https://cv-guillermo-echague.netlify.app/)
-
-
 
 
 ## Certificaciones:
