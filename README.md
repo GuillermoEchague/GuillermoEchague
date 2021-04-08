@@ -1,6 +1,6 @@
 # Hola
 
-## Mi nombre es Guillermo Echagüe
+## Mi nombre es Guillermo Echagüe [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/) [![](https://img.shields.io/badge/cv-232F3E?style=for-the-badge)](https://cv-guillermo-echague.netlify.app/)
 
 ### Soy Ingeniero Civil en Mecánica de profesión y decidi dedicarme al desarrollo de Software
 
@@ -46,11 +46,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-Python-%23CB2136?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ED8B00?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-E6162D?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325)</br>
-
-
-## Red Social
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/) [![](https://img.shields.io/badge/cv-232F3E?style=for-the-badge)](https://cv-guillermo-echague.netlify.app/)
 
 
 ## Certificaciones:
