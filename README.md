@@ -62,7 +62,7 @@
 ~~~
 
 ## Cursos:
-
+```bash
 ~~~
 * Taller Jmeter para principiantes - Testing en Chile.
 * Python Orientado a Selenium - Testing en Chile. 
@@ -78,6 +78,7 @@
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
 
+* Introducción al Networking - Capacitación USACH.
 * Arquitecto Cloud - Capacitación USACH. (En Desarrollo)
 * Gobierno y Gestión de TI usando COBIT - Capacitación USACH. 
 * Diplomado en Ciberseguridad - Capacitación USACH.
@@ -86,4 +87,4 @@
 
 * DEVOPS - MundosE, Argentina. (En Desarrollo)
 ~~~
-
+```
