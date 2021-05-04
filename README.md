@@ -71,18 +71,18 @@
 
 * Curso React Native - escalab.
 * Curso Docker y Kubernete - escalab. 
-* Curso React JS - escalab. (En Desarrollo)
+* Curso React JS - escalab.
 * Curso GraphQL - escalab. (En Desarrollo)
 
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
 
-* Introducción al Networking - Capacitación USACH.
-* Arquitecto Cloud - Capacitación USACH. (En Desarrollo)
+* Arquitecto Cloud - Capacitación USACH. 
 * Gobierno y Gestión de TI usando COBIT - Capacitación USACH. 
 * Diplomado en Ciberseguridad - Capacitación USACH.
 * Introducción a la Criptografía - Capacitación USACH.
 * Introducción a la Programación en Python - Capacitación USACH.
+* Introducción al Networking - Capacitación USACH.
 
 * DEVOPS - MundosE, Argentina. (En Desarrollo)
 ```
