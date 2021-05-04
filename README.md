@@ -50,7 +50,7 @@
 
 ## Certificaciones:
 
-~~~
+```bash
 * Scrum Foundation Professional Certificate 
 * Desing Thinking Professional Certificae - DTPC
 * Implementador de SGSI bajo ISO 27001
@@ -59,11 +59,10 @@
 * Introducción a la Criptografía
 * Introducción a la Programación en Python
 * Gobierno y Gestión de TI usando COBIT
-~~~
+```
 
 ## Cursos:
 ```bash
-~~~
 * Taller Jmeter para principiantes - Testing en Chile.
 * Python Orientado a Selenium - Testing en Chile. 
 
@@ -86,5 +85,4 @@
 * Introducción a la Programación en Python - Capacitación USACH.
 
 * DEVOPS - MundosE, Argentina. (En Desarrollo)
-~~~
 ```
