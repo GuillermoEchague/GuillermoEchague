@@ -35,7 +35,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-ffca28?style=for-the-badge&logo=vercel&logoColor=white)</br>
+![Vercel](https://img.shields.io/badge/vercel--100000?style=for-the-badge&logo=vercel&logoColor=white)</br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</br>
 ![GCP](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=1A73E8&labelColor=FAFAFA)
