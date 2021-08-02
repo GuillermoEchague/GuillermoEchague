@@ -70,11 +70,13 @@
 
 * Introducción Ruby on Rails (G13) - Desafío Latam, Santiago, Chile.
 * Desarrollador de Aplicaciones Móviles Android Trainee - Desafío Latam, Santiago, Chile.
+* Curso de Empredimiento Digital - EduTecno (En Desarrollo)
 
 * Curso React Native - escalab.
 * Curso Docker y Kubernete - escalab. 
 * Curso React JS - escalab.
-* Curso GraphQL - escalab. (En Desarrollo)
+* Curso GraphQL - escalab.
+* Curso Node - escalab. (En Desarrollo)
 
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
