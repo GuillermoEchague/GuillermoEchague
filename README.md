@@ -76,7 +76,7 @@
 * Curso Docker y Kubernete - escalab. 
 * Curso React JS - escalab.
 * Curso GraphQL - escalab.
-* Curso Node - escalab. (En Desarrollo)
+* Curso Node - escalab.
 
 * Curso de Scrum Foundation - RIGroup. 
 * Curso de Scrum Master y Design Thinking - RIGroup. 
@@ -88,5 +88,5 @@
 * Introducción a la Programación en Python - Capacitación USACH.
 * Introducción al Networking - Capacitación USACH.
 
-* DEVOPS - MundosE, Argentina. (En Desarrollo)
+* DEVOPS - MundosE, Argentina. 
 ```
